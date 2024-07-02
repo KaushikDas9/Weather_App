@@ -16,10 +16,13 @@ A simple weather app that fetches weather data from OpenWeatherMap API and displ
 ## Screenshots
 
 ### Home Screen
-![Home Screen](assets/home_screen.png)
+![Home Screen](assets/HomePage1.jpg)
 
 ### Weather Details Screen
-![Weather Details Screen](assets/weather_details_screen.png)
+![Weather Details Screen](assets/WeatherDetailsPage.jpg)
+
+### Error Handle Screen
+![Weather Details Screen](assets/ErrorHandle.jpg)
 
 ## Getting Started
 
