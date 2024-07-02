@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> {
                 vertical: height * .1, horizontal: width * .05),
             child: Column(
               children: [
-                Text("Weather App"),
+                Text("Weather App", style: TextStyle(fontSize: height * .05 , color: Color.fromARGB(255, 230, 255, 9) ),),
                 SizedBox(height: height * .1),
                 TextField(
                   controller: _controller,
