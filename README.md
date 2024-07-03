@@ -35,9 +35,9 @@ https://www.youtube.com/watch?v=LugQuapq270
 
 ### Running the App
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`
+1. Clone the repository: `git clone https://github.com/KaushikDas9/Weather_App.git`
 2. Navigate to the project directory: `cd weather-app`
-3. Replace `YOUR_API_KEY` with your actual OpenWeatherMap API key in `lib/services/weather_api.dart`
+3. Replace `YOUR_API_KEY` with your actual OpenWeatherMap API key 
 4. Run the app: `flutter run`
 
 ## Technical Details
